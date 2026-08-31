@@ -160,19 +160,19 @@
     "symbol": "SKHYx"
   },
   {
-    "address": "A1KLoBrKBde8Ty9qtNQUtq3C2ortoC3u7twggz7sEto6",
+    "address": "Aaddress": "A1KLoBrKBde8Ty9qtNQUtq3C2ortoC3u7tw
     "chainId": 1151111081099710,
     "symbol": "USDY",
     "decimals": 6,
     "name": "Ondo US Dollar Yield",
     "logoURI": "https://coin-images.coingecko.com/coins/images/31700/large/usdy_%281%29.png?1696530524"
-  },
-  {
+  },},
+  {{
     "address": "BCLDjdMbkX2Nx886a5UkeT7maBcfvREwWDiqokcZBDtU",
     "chainId": 1151111081099710,
     "decimals": 6,
     "name": "BCLD",
     "symbol": "BCLD",
     "logoURI": "https://peach-odd-puffin-116.mypinata.cloud/ipfs/bafybeidjdyqrf2p7qc3prkgowzpo2aibxswebwg5e3zvcc2w6sggbte7xu"
-  }
-]
+  }}
+]]
